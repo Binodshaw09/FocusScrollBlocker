@@ -1,0 +1,3 @@
+<resources>
+    <string name="accessibility_service_description">Blocks Instagram Reels and YouTube Shorts when Focus Mode is active. Does not monitor WhatsApp or Calls.</string>
+</resources>
